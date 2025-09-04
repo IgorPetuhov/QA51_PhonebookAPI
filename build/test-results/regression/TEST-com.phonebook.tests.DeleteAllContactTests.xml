@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.DeleteAllContactTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-04T19:43:20.144Z" hostname="DESKTOP-BJI98SJ" time="0.633">
+  <properties/>
+  <testcase name="deleteAddContactsSuccessTest" classname="com.phonebook.tests.DeleteAllContactTests" time="0.633"/>
+  <system-out><![CDATA[21:43:19.457 [Test worker] INFO  com.phonebook.core.TestBase -- Start test: deleteAddContactsSuccessTest with data: []
+21:43:20.778 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: deleteAddContactsSuccessTest
+21:43:20.778 [Test worker] INFO  com.phonebook.core.TestBase -- *************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

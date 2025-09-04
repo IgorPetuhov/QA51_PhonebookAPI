@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.GetContactsTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-04T19:43:16.286Z" hostname="DESKTOP-BJI98SJ" time="0.763">
+  <properties/>
+  <testcase name="getContactSuccessTest" classname="com.phonebook.tests.GetContactsTests" time="0.763"/>
+  <system-out><![CDATA[21:43:15.589 [Test worker] INFO  com.phonebook.core.TestBase -- Start test: getContactSuccessTest with data: []
+0babc2e3-7325-46a3-ae72-58a96ee5d67e************Max1
+========================
+88917049-812e-44b8-8df5-0e27d71a6fa6************Max1
+========================
+422861fe-e521-4f4b-a4cd-40795f1c05d8************Max1
+========================
+21:43:17.051 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: getContactSuccessTest
+21:43:17.051 [Test worker] INFO  com.phonebook.core.TestBase -- *************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

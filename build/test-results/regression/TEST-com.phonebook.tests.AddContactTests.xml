@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.AddContactTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-09-04T19:43:11.879Z" hostname="DESKTOP-BJI98SJ" time="3.706">
+  <properties/>
+  <testcase name="addContactSuccessTest[0](ContactDto(id=null, name=Max1, lastName=Wow, email=wow@gmx.de, phone=0123456789, address=Bonn, description=goalkeeper))" classname="com.phonebook.tests.AddContactTests" time="0.707"/>
+  <testcase name="addContactSuccessTest[1](ContactDto(id=null, name=Max1, lastName=Wow, email=wow@gmx.de, phone=0123456789, address=Bonn, description=goalkeeper))" classname="com.phonebook.tests.AddContactTests" time="0.72"/>
+  <testcase name="addContactSuccessTest[2](ContactDto(id=null, name=Max1, lastName=Wow, email=wow@gmx.de, phone=0123456789, address=Bonn, description=goalkeeper))" classname="com.phonebook.tests.AddContactTests" time="0.808"/>
+  <system-out><![CDATA[21:43:11.108 [Test worker] INFO  com.phonebook.core.TestBase -- Start test: addContactSuccessTest with data: []
+21:43:12.587 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: addContactSuccessTest
+21:43:12.587 [Test worker] INFO  com.phonebook.core.TestBase -- *************************************
+21:43:12.589 [Test worker] INFO  com.phonebook.core.TestBase -- Start test: addContactSuccessTest with data: []
+21:43:14.077 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: addContactSuccessTest
+21:43:14.077 [Test worker] INFO  com.phonebook.core.TestBase -- *************************************
+21:43:14.078 [Test worker] INFO  com.phonebook.core.TestBase -- Start test: addContactSuccessTest with data: []
+21:43:15.586 [Test worker] INFO  com.phonebook.core.TestBase -- PASSED: addContactSuccessTest
+21:43:15.586 [Test worker] INFO  com.phonebook.core.TestBase -- *************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
